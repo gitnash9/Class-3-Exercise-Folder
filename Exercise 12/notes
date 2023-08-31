@@ -1,0 +1,8 @@
+* create a list of objects, each having a name and price property
+
+* create a loop over that list, create a new list item with the food inside, and append that item to an existing ul element 
+
+[*] list of objects
+[*] list of prices
+[*] loop
+[*] put list into an <li> and <ul> 
