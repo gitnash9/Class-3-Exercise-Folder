@@ -32,6 +32,6 @@ let array = ['Suzy', 'Mark', 'Michael']
 console.log(array)
 
 // no default value declaration
-let weather = 
+let weather = '98F'
 console.log(weather)
 // i could not really figure this out 
